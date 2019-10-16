@@ -7,6 +7,9 @@ Mon premier canvas 3D réalisé grâce à three.js
 Voici la source à partir de laquelle j'ai réalisé cette page :
 [Canvas 3D (WebGL) plus facile avec Three.js](https://www.alsacreations.com/tuto/lire/1572-webgl-3d-three-canvas-threejs.html)
 
+[WebGL tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
+
+
 ## Faire un README
 
 [Make a README](https://www.makeareadme.com/)
