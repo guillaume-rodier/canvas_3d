@@ -1,0 +1,9 @@
+body, html {
+  margin:0;
+  padding:0;
+  background:#ffffff;
+}
+p {
+  font-family: sans-serif;
+  padding:1em;
+}
